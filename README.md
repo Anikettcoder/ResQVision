@@ -188,12 +188,12 @@ Roughly 53 ms end-to-end per image on a T4 (about 19 FPS) with `yolo26m`. Smalle
 
 <table>
   <tr>
-    <td align="center"><img src="assets/results/pred_1.png" width="400"/><br/><sub>Dense scene around a submerged car: <b>46 people</b> detected</sub></td>
-    <td align="center"><img src="assets/results/pred_2.png" width="400"/><br/><sub>Flooded residential street: <b>45 people</b> detected</sub></td>
+    <td align="center"><img src="assets/results/pred1.png" width="400"/><br/><sub>Dense scene around a submerged car: <b>46 people</b> detected</sub></td>
+    <td align="center"><img src="assets/results/pred2.png" width="400"/><br/><sub>Flooded residential street: <b>45 people</b> detected</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/results/pred_3.png" width="400"/><br/><sub>Flooded campus, small and distant people: <b>17 people</b> detected</sub></td>
-    <td align="center"><img src="assets/results/pred_4.png" width="400"/><br/><sub>Flooded suburb with rooftops and trees: <b>29 people</b> detected</sub></td>
+    <td align="center"><img src="assets/results/pred3.png" width="400"/><br/><sub>Flooded campus, small and distant people: <b>17 people</b> detected</sub></td>
+    <td align="center"><img src="assets/results/pred4.png" width="400"/><br/><sub>Flooded suburb with rooftops and trees: <b>29 people</b> detected</sub></td>
   </tr>
 </table>
 
