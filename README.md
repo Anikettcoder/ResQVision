@@ -176,11 +176,11 @@ Roughly 53 ms end-to-end per image on a T4 (about 19 FPS) with `yolo26m`. Smalle
 <table>
   <tr>
     <td align="center"><img src="assets/results/confusion_matrix_normalized.png" width="400"/><br/><b>Confusion Matrix</b></td>
-    <td align="center"><img src="assets/results/PR_curve.png" width="400"/><br/><b>Precision–Recall Curve</b></td>
+    <td align="center"><img src="assets/results/BoxPR_curve.png" width="400"/><br/><b>Precision–Recall Curve</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/results/F1_curve.png" width="400"/><br/><b>F1–Confidence Curve</b></td>
-    <td align="center"><img src="assets/results/P_curve.png" width="400"/><br/><b>Precision–Confidence Curve</b></td>
+    <td align="center"><img src="assets/results/BoxF1_curve.png" width="400"/><br/><b>F1–Confidence Curve</b></td>
+    <td align="center"><img src="assets/results/BoxP_curve.png" width="400"/><br/><b>Precision–Confidence Curve</b></td>
   </tr>
 </table>
 
